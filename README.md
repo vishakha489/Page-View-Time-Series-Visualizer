@@ -81,6 +81,13 @@ box_plot.png
 
 ---
 
-👩‍💻 Author
+## 👩‍💻 Author
 
-Vishakha Tamboli – Aspiring Data Scientist & Python Developer
+**Vishakha Tamboli**
+Aspiring Python Developer & Data Scientist
+
+---
+
+⭐ If you found this project helpful, feel free to star the repository!
+
+
