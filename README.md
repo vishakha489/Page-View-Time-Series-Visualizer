@@ -81,6 +81,6 @@ box_plot.png
 
 ---
 
-**Author**
+## Author
 
 Vishakha Tamboli – Aspiring Data Scientist & Python Developer
